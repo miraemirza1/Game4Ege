@@ -1,8 +1,8 @@
 const pictures = [
-  { name: "one", img: "images/photo1.jpg" },
-  { name: "two", img: "images/photo2.jpg" },
-  { name: "three", img: "images/photo3.jpg" },
-  { name: "four", img: "images/photo4.jpg" }
+  { name: "one", img: "photo1.jpg" },
+  { name: "two", img: "photo2.jpg" },
+  { name: "three", img: "photo3.jpg" },
+  { name: "four", img: "photo4.jpg" }
 ];
 
 let cards = [...pictures, ...pictures];
